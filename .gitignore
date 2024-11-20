@@ -1,1 +1,8 @@
+# Node modules
 node_modules/
+
+# Archivos de log
+*.log
+
+# Otros archivos sensibles
+.env
